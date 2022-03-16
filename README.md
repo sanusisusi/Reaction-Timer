@@ -14,10 +14,6 @@ This is the game which will make you attentive with it. It is very interesting w
 ***
 > Here are the screenshots of the Game !...
 
-
-## You are most welcome to modify and give the suggestions .. If You find any mistake or error then make a pull request or inform to me ..
-***
-
 # Programming Languages Used Here Are :
 * Javascript
 * HTML & CSS 
